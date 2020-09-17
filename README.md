@@ -1,5 +1,7 @@
 # Image Fetcher Coding Challenge
 
+![Run Tests](https://github.com/patrickdet/client-coding-challenge/workflows/Run%20Tests/badge.svg)
+
 The image fetcher takes a file path as a cli input. It will read the file at the
 input path. The required file structure is one of newline separated urls.
 
